@@ -1,8 +1,9 @@
 
-#**_**Airspace**_**
+#Airspace Tests 
 
-
-##To run the test:
+## Prerequisites
+#### 1. Node.js: Install the latest Node.js. Go to https://nodejs.org/en/
+## How to run
 
 1. Download and install Node.js (node v14.15.1)
 2. $ git clone 
