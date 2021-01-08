@@ -1,0 +1,16 @@
+{
+  "name": "airspaceformtanyagamaley",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress open": "cypress open"
+  },
+  "author": "",
+
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "cypress": "^6.2.1"
+  }
+}
