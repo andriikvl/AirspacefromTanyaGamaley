@@ -1,10 +1,10 @@
 
-**_**Airspace**_**
+#**_**Airspace**_**
 
 
-To run the test:
+##To run the test:
 
 1. Download and install Node.js (node v14.15.1)
 2. $ git clone 
 3. $ npm install
-4. $ npm test
+4. $ cypress open
